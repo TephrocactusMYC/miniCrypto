@@ -1,0 +1,2 @@
+The **client** and **server** folders each contain their corresponding source code and executable (**.exe**) files. The **keys** folder stores the generated key files. Since **relative paths** are used, please ensure the file paths remain consistent for the program to run properly.
+The executables are **statically linked**, so they can be run directly on **Windows 11** systems without additional dependencies.
