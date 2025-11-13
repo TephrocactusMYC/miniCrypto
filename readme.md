@@ -27,7 +27,3 @@ To start:
 1. Launch the server executable.
 2. Run the client executable and connect to the server.
 3. Exchange encrypted messages or data securely.
-
----
-
-Would you like me to include a short example command-line usage section (e.g., how to run `server.exe` and `client.exe`)?
